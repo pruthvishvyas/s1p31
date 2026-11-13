@@ -1,0 +1,89 @@
+{
+  "id": "site_weekday_rate",
+  "title": "Low-margin share by site and weekday",
+  "type": "heatmap",
+  "x_label": "Weekday",
+  "y_label": "Site",
+  "data": [
+    {
+      "label": "WH-Central (Dallas)|Mon",
+      "value": 0.0
+    },
+    {
+      "label": "WH-Central (Dallas)|Tue",
+      "value": 0.0
+    },
+    {
+      "label": "WH-Central (Dallas)|Wed",
+      "value": 0.0
+    },
+    {
+      "label": "WH-Central (Dallas)|Thu",
+      "value": 0.0
+    },
+    {
+      "label": "WH-Central (Dallas)|Fri",
+      "value": 0.0
+    },
+    {
+      "label": "WH-East (Newark)|Mon",
+      "value": 34.0
+    },
+    {
+      "label": "WH-East (Newark)|Tue",
+      "value": 18.0
+    },
+    {
+      "label": "WH-East (Newark)|Wed",
+      "value": 20.0
+    },
+    {
+      "label": "WH-East (Newark)|Thu",
+      "value": 12.0
+    },
+    {
+      "label": "WH-East (Newark)|Fri",
+      "value": 14.0
+    },
+    {
+      "label": "WH-South (Atlanta)|Mon",
+      "value": 90.0
+    },
+    {
+      "label": "WH-South (Atlanta)|Tue",
+      "value": 80.0
+    },
+    {
+      "label": "WH-South (Atlanta)|Wed",
+      "value": 74.0
+    },
+    {
+      "label": "WH-South (Atlanta)|Thu",
+      "value": 70.0
+    },
+    {
+      "label": "WH-South (Atlanta)|Fri",
+      "value": 74.0
+    },
+    {
+      "label": "WH-West (Reno)|Mon",
+      "value": 2.0
+    },
+    {
+      "label": "WH-West (Reno)|Tue",
+      "value": 4.0
+    },
+    {
+      "label": "WH-West (Reno)|Wed",
+      "value": 2.0
+    },
+    {
+      "label": "WH-West (Reno)|Thu",
+      "value": 4.0
+    },
+    {
+      "label": "WH-West (Reno)|Fri",
+      "value": 4.0
+    }
+  ]
+}

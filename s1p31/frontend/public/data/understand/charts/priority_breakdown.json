@@ -1,0 +1,25 @@
+{
+  "id": "priority_breakdown",
+  "title": "Site-days by priority",
+  "type": "bar",
+  "x_label": "Priority",
+  "y_label": "Site-days",
+  "data": [
+    {
+      "label": "P1_URGENT",
+      "value": 215
+    },
+    {
+      "label": "P2_HIGH",
+      "value": 175
+    },
+    {
+      "label": "P3_MEDIUM",
+      "value": 323
+    },
+    {
+      "label": "P4_ROUTINE",
+      "value": 287
+    }
+  ]
+}

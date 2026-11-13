@@ -1,0 +1,14 @@
+[
+  {
+    "id": "overtime_shift",
+    "file": "decide/simulations/overtime_shift.json"
+  },
+  {
+    "id": "agency_conversion",
+    "file": "decide/simulations/agency_conversion.json"
+  },
+  {
+    "id": "error_reduction",
+    "file": "decide/simulations/error_reduction.json"
+  }
+]

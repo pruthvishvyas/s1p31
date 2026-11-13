@@ -1,0 +1,1610 @@
+{
+  "priority_counts": {
+    "P3_MEDIUM": 323,
+    "P4_ROUTINE": 287,
+    "P1_URGENT": 215,
+    "P2_HIGH": 175
+  },
+  "rows": [
+    {
+      "id": "2b2b9bf151",
+      "date": "2026-09-14",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "5deef0eb9a",
+      "date": "2026-09-01",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|ABSENCE|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "d4ea638870",
+      "date": "2026-08-24",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "0391b8b030",
+      "date": "2026-08-20",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "DOWNTIME|ABSENCE|SAFETY",
+      "actions": "Book preventive maintenance on the equipment with the most stops; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "eb4163d592",
+      "date": "2026-08-11",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "544facbff8",
+      "date": "2026-08-10",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "1c2425ce40",
+      "date": "2026-08-07",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "0ca79883f1",
+      "date": "2026-08-03",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "246d015d7a",
+      "date": "2026-08-03",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "99395e0abb",
+      "date": "2026-07-30",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "2b420b2035",
+      "date": "2026-07-24",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "27c19e35b9",
+      "date": "2026-07-20",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "1a222cb3f2",
+      "date": "2026-07-13",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "b461f3936e",
+      "date": "2026-07-10",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "eccdb2ef5f",
+      "date": "2026-07-07",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "PICK_ERRORS|OVERTIME_HEAVY|SAFETY",
+      "actions": "Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "27c4771bdc",
+      "date": "2026-05-25",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "4f395e1336",
+      "date": "2026-05-11",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|ABSENCE|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "2269fea998",
+      "date": "2026-05-07",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "PICK_ERRORS|SAFETY",
+      "actions": "Run a slotting and pick-path check on the failing zones; Hold a safety review before the next shift"
+    },
+    {
+      "id": "ff732ffb18",
+      "date": "2026-05-05",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|DOWNTIME",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Book preventive maintenance on the equipment with the most stops"
+    },
+    {
+      "id": "795d831bcc",
+      "date": "2026-05-04",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|DOWNTIME",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Book preventive maintenance on the equipment with the most stops"
+    },
+    {
+      "id": "feebdf61e5",
+      "date": "2026-05-01",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|DOWNTIME",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Book preventive maintenance on the equipment with the most stops"
+    },
+    {
+      "id": "f84b40295b",
+      "date": "2026-04-23",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "8acbd9b15d",
+      "date": "2026-04-15",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "ABSENCE|SAFETY",
+      "actions": "Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "ee47557ee9",
+      "date": "2026-04-10",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "PICK_ERRORS|OVERTIME_HEAVY|SAFETY",
+      "actions": "Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "389cf1e49f",
+      "date": "2026-04-06",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "fe4c7d9a93",
+      "date": "2026-03-30",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "3a588f0aeb",
+      "date": "2026-03-30",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "446b4cd3a2",
+      "date": "2026-03-19",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "9f859a24af",
+      "date": "2026-03-17",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "83cbffb3ef",
+      "date": "2026-03-11",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "54304e097a",
+      "date": "2026-03-05",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "8efc87ccf9",
+      "date": "2026-03-04",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "SAFETY",
+      "actions": "Hold a safety review before the next shift"
+    },
+    {
+      "id": "358202c59a",
+      "date": "2026-02-18",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "8951674238",
+      "date": "2026-02-09",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "PICK_ERRORS|OVERTIME_HEAVY|ABSENCE|SAFETY",
+      "actions": "Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "ac1ed865f0",
+      "date": "2026-02-06",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "OVERTIME_HEAVY|SAFETY",
+      "actions": "Rebalance shifts to bring overtime back under the cap; Hold a safety review before the next shift"
+    },
+    {
+      "id": "dbd62a6a18",
+      "date": "2026-01-30",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "ABSENCE|SAFETY",
+      "actions": "Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "4610202111",
+      "date": "2026-01-27",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "ecb30aede9",
+      "date": "2026-01-23",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "0247c1c9a9",
+      "date": "2026-01-23",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "5c24886339",
+      "date": "2026-01-22",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|DOWNTIME|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Book preventive maintenance on the equipment with the most stops; Review shift cover and attendance planning"
+    },
+    {
+      "id": "f6bd3bf123",
+      "date": "2026-01-22",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "ccf48524fa",
+      "date": "2026-01-21",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "6e6fd67058",
+      "date": "2026-01-21",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "a6e64a8b6d",
+      "date": "2026-01-20",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "90c6c58d1a",
+      "date": "2026-01-20",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "c25d9dade5",
+      "date": "2026-01-19",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "dbf896f709",
+      "date": "2026-01-19",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "542ce08b2f",
+      "date": "2026-01-19",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "7da3342c20",
+      "date": "2026-01-16",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "9f4a014777",
+      "date": "2026-01-16",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "ec32a96a5f",
+      "date": "2026-01-16",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "8a7b2b5867",
+      "date": "2026-01-16",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "a2acdc953b",
+      "date": "2026-01-15",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "77ba101997",
+      "date": "2026-01-15",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "16e16050e4",
+      "date": "2026-01-15",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "dfa9f7a964",
+      "date": "2026-01-14",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "d9ce3f2e24",
+      "date": "2026-01-14",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "13b13fe136",
+      "date": "2026-01-14",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "29d894b862",
+      "date": "2026-01-13",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "9b88604a44",
+      "date": "2026-01-13",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "0f37ef840b",
+      "date": "2026-01-13",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "c6420cb2c4",
+      "date": "2026-01-13",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "1787743e1e",
+      "date": "2026-01-12",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "a103bf34d7",
+      "date": "2026-01-12",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "701555acc3",
+      "date": "2026-01-12",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "a52a06a37b",
+      "date": "2026-01-09",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "313fa6b460",
+      "date": "2026-01-09",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "678f37c01b",
+      "date": "2026-01-09",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "95977fb8aa",
+      "date": "2026-01-09",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "167983a60f",
+      "date": "2026-01-08",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "7c8d3d1f40",
+      "date": "2026-01-08",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "3dd89dda57",
+      "date": "2026-01-08",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "128dd4fc22",
+      "date": "2026-01-08",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "4fc80d7d19",
+      "date": "2026-01-07",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "1a030073b1",
+      "date": "2026-01-07",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "febb52d1bc",
+      "date": "2026-01-06",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "4a083de326",
+      "date": "2026-01-06",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "0547be7178",
+      "date": "2026-01-06",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "8683483384",
+      "date": "2026-01-06",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "71633e2efe",
+      "date": "2026-01-05",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "2aa555582d",
+      "date": "2026-01-05",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "d6539dd213",
+      "date": "2026-01-05",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "a97996f4f8",
+      "date": "2026-01-02",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "2782762fdd",
+      "date": "2026-01-02",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "0985b1a525",
+      "date": "2026-01-02",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "d96ba51d8c",
+      "date": "2026-01-02",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "3723a6ca15",
+      "date": "2026-01-01",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "f5bdb05ed3",
+      "date": "2026-01-01",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "0da4ef2e63",
+      "date": "2026-01-01",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "4efb854416",
+      "date": "2026-01-01",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "a7becfc742",
+      "date": "2025-12-31",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Hold a safety review before the next shift"
+    },
+    {
+      "id": "4bbe4a4dd9",
+      "date": "2025-12-31",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|DOWNTIME|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Book preventive maintenance on the equipment with the most stops; Review shift cover and attendance planning"
+    },
+    {
+      "id": "e11456bc59",
+      "date": "2025-12-31",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "8073ff65b2",
+      "date": "2025-12-30",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "5a45c0f517",
+      "date": "2025-12-29",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "1a878b6a8d",
+      "date": "2025-12-29",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "4f04589a10",
+      "date": "2025-12-26",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "f807645c8e",
+      "date": "2025-12-25",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "493f30a4fa",
+      "date": "2025-12-25",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "135bd5266d",
+      "date": "2025-12-24",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "30f03aefa2",
+      "date": "2025-12-24",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "5eeb4e3604",
+      "date": "2025-12-23",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "e6ff6f1106",
+      "date": "2025-12-23",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Hold a safety review before the next shift"
+    },
+    {
+      "id": "e57cc5ee07",
+      "date": "2025-12-23",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "ab28d82ea5",
+      "date": "2025-12-23",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "c54999e6f1",
+      "date": "2025-12-22",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "cbad43561f",
+      "date": "2025-12-22",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "931c4e71d1",
+      "date": "2025-12-22",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "4c5a66ea78",
+      "date": "2025-12-22",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "4b7fa2f185",
+      "date": "2025-12-19",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "db660d37b4",
+      "date": "2025-12-19",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "ba24749dbf",
+      "date": "2025-12-19",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "de83e47f6c",
+      "date": "2025-12-19",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Hold a safety review before the next shift"
+    },
+    {
+      "id": "b89ad6b49b",
+      "date": "2025-12-18",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "4c31586eeb",
+      "date": "2025-12-18",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "d5b292e2a5",
+      "date": "2025-12-18",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "0bf311148e",
+      "date": "2025-12-18",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "4a276744d8",
+      "date": "2025-12-17",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "b91de3bd9d",
+      "date": "2025-12-17",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "08b5da505b",
+      "date": "2025-12-17",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "c0e4652346",
+      "date": "2025-12-17",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "78e4de1090",
+      "date": "2025-12-16",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "59396c2fc0",
+      "date": "2025-12-16",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "8e232969cf",
+      "date": "2025-12-16",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "4e2c7c3a13",
+      "date": "2025-12-16",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "2461e1d312",
+      "date": "2025-12-15",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "2add5dbc07",
+      "date": "2025-12-15",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "63db04388c",
+      "date": "2025-12-15",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "ee244cabd8",
+      "date": "2025-12-15",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "31c7da3762",
+      "date": "2025-12-12",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "e36a09cadd",
+      "date": "2025-12-12",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "609e84ab95",
+      "date": "2025-12-12",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "a36e19fb81",
+      "date": "2025-12-12",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "d5678ddc98",
+      "date": "2025-12-11",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "194b811846",
+      "date": "2025-12-11",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "97150be918",
+      "date": "2025-12-11",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "45208e8533",
+      "date": "2025-12-11",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "57cd93584d",
+      "date": "2025-12-10",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "5176488dfc",
+      "date": "2025-12-10",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "6b7992ebdf",
+      "date": "2025-12-10",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "7c54da2353",
+      "date": "2025-12-10",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Hold a safety review before the next shift"
+    },
+    {
+      "id": "1772177dba",
+      "date": "2025-12-09",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "cd62b013ca",
+      "date": "2025-12-09",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "cd2d45294b",
+      "date": "2025-12-09",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "93bcaa91ae",
+      "date": "2025-12-09",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "f9e54b9ade",
+      "date": "2025-12-08",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "1f57ccfb57",
+      "date": "2025-12-08",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "1d4ed40453",
+      "date": "2025-12-08",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "65838c90c6",
+      "date": "2025-12-08",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "c3cca7dfd1",
+      "date": "2025-12-05",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Hold a safety review before the next shift"
+    },
+    {
+      "id": "f95ec87f53",
+      "date": "2025-12-05",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "1fd8963b83",
+      "date": "2025-12-05",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "b9c272e25e",
+      "date": "2025-12-05",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "d03c84658f",
+      "date": "2025-12-04",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "c644c27283",
+      "date": "2025-12-04",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Hold a safety review before the next shift"
+    },
+    {
+      "id": "1327e77452",
+      "date": "2025-12-04",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "83d4539717",
+      "date": "2025-12-04",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "21355c5718",
+      "date": "2025-12-03",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "979ce0ad3c",
+      "date": "2025-12-03",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "30675a8946",
+      "date": "2025-12-03",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "e915e08835",
+      "date": "2025-12-03",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "3b0e486bcb",
+      "date": "2025-12-02",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "ea99bce246",
+      "date": "2025-12-02",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "e11d5aed4b",
+      "date": "2025-12-02",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "0e5b742fa8",
+      "date": "2025-12-02",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "6013a1e5b6",
+      "date": "2025-12-01",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "1b466aaf0b",
+      "date": "2025-12-01",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "21e1837e40",
+      "date": "2025-12-01",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "3fa26d8302",
+      "date": "2025-12-01",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "bdc6833843",
+      "date": "2025-11-28",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "cd2d204436",
+      "date": "2025-11-28",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "814f76b186",
+      "date": "2025-11-28",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "7979744224",
+      "date": "2025-11-28",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "1e94bce7eb",
+      "date": "2025-11-27",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|SAFETY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Hold a safety review before the next shift"
+    },
+    {
+      "id": "feb35e377e",
+      "date": "2025-11-27",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "ffcfae8689",
+      "date": "2025-11-27",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "33a54e1dab",
+      "date": "2025-11-27",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "c09bdd5d90",
+      "date": "2025-11-26",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    },
+    {
+      "id": "c3eede2c1a",
+      "date": "2025-11-26",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "b8fd7afa67",
+      "date": "2025-11-26",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|DOWNTIME|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Book preventive maintenance on the equipment with the most stops; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "e24f5a27e3",
+      "date": "2025-11-26",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "221a374518",
+      "date": "2025-11-25",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "10aa57a37d",
+      "date": "2025-11-25",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "67daf34c7f",
+      "date": "2025-11-25",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "c766379a8b",
+      "date": "2025-11-25",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "d7a783ca58",
+      "date": "2025-11-24",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "d383535ec9",
+      "date": "2025-11-24",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "3bfc3699b5",
+      "date": "2025-11-24",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "5ab56dd51a",
+      "date": "2025-11-24",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "ed9932e633",
+      "date": "2025-11-21",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Review shift cover and attendance planning"
+    },
+    {
+      "id": "daeae15050",
+      "date": "2025-11-21",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "10fc0a1ec2",
+      "date": "2025-11-21",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "9b9e6e1e47",
+      "date": "2025-11-21",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "c45349e6a6",
+      "date": "2025-11-20",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "d6b9448559",
+      "date": "2025-11-20",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "6e3f813502",
+      "date": "2025-11-20",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|STOCK_ACCURACY",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Schedule a cycle count for the affected aisles"
+    },
+    {
+      "id": "898c1bd352",
+      "date": "2025-11-20",
+      "warehouse": "WH-West (Reno)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE|ABSENCE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces; Review shift cover and attendance planning"
+    },
+    {
+      "id": "82cd1890f1",
+      "date": "2025-11-19",
+      "warehouse": "WH-Central (Dallas)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "eb2f018206",
+      "date": "2025-11-19",
+      "warehouse": "WH-East (Newark)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD|FULL_STORAGE",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders; Clear aged stock to free pick faces"
+    },
+    {
+      "id": "eacfbb96e3",
+      "date": "2025-11-19",
+      "warehouse": "WH-South (Atlanta)",
+      "priority": "P1_URGENT",
+      "alerts": "LATE_SHIPPING|PICK_ERRORS|AGENCY_HEAVY|OVERTIME_HEAVY|BACKLOG_BUILD",
+      "actions": "Add a pick wave or rebalance the dock schedule to recover ship cut-offs; Run a slotting and pick-path check on the failing zones; Convert recurring agency roles to permanent or cap agency hours; Rebalance shifts to bring overtime back under the cap; Start extra hours earlier in the day to clear carry-over orders"
+    }
+  ]
+}

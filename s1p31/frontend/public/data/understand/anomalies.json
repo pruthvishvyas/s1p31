@@ -1,0 +1,356 @@
+{
+  "count": 50,
+  "rate": 0.05,
+  "rows": [
+    {
+      "id": "6e3f813502",
+      "date": "2025-11-20",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -37.9,
+      "score": 0.6843
+    },
+    {
+      "id": "160baea230",
+      "date": "2025-11-18",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 22.0,
+      "score": 0.6829
+    },
+    {
+      "id": "a7e9745ed2",
+      "date": "2025-11-17",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -31.7,
+      "score": 0.6671
+    },
+    {
+      "id": "d383535ec9",
+      "date": "2025-11-24",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": -3.0,
+      "score": 0.6661
+    },
+    {
+      "id": "7673621410",
+      "date": "2025-11-18",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -29.7,
+      "score": 0.666
+    },
+    {
+      "id": "67daf34c7f",
+      "date": "2025-11-25",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -31.8,
+      "score": 0.6581
+    },
+    {
+      "id": "09e4255bce",
+      "date": "2025-11-17",
+      "warehouse": "WH-West (Reno)",
+      "margin_pct": 7.3,
+      "score": 0.6541
+    },
+    {
+      "id": "d5b292e2a5",
+      "date": "2025-12-18",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -30.8,
+      "score": 0.6477
+    },
+    {
+      "id": "3bfc3699b5",
+      "date": "2025-11-24",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -31.6,
+      "score": 0.6474
+    },
+    {
+      "id": "ba24749dbf",
+      "date": "2025-12-19",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -33.3,
+      "score": 0.642
+    },
+    {
+      "id": "97150be918",
+      "date": "2025-12-11",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -29.1,
+      "score": 0.6398
+    },
+    {
+      "id": "63db04388c",
+      "date": "2025-12-15",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -21.0,
+      "score": 0.6357
+    },
+    {
+      "id": "30675a8946",
+      "date": "2025-12-03",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -33.6,
+      "score": 0.6339
+    },
+    {
+      "id": "eacfbb96e3",
+      "date": "2025-11-19",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -20.4,
+      "score": 0.6335
+    },
+    {
+      "id": "10fc0a1ec2",
+      "date": "2025-11-21",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -21.5,
+      "score": 0.6322
+    },
+    {
+      "id": "814f76b186",
+      "date": "2025-11-28",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -32.0,
+      "score": 0.6306
+    },
+    {
+      "id": "c54999e6f1",
+      "date": "2025-12-22",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 16.7,
+      "score": 0.63
+    },
+    {
+      "id": "1fd8963b83",
+      "date": "2025-12-05",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -25.0,
+      "score": 0.6278
+    },
+    {
+      "id": "1d4ed40453",
+      "date": "2025-12-08",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -25.0,
+      "score": 0.6262
+    },
+    {
+      "id": "1327e77452",
+      "date": "2025-12-04",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -30.1,
+      "score": 0.6253
+    },
+    {
+      "id": "31bdd05dee",
+      "date": "2025-11-18",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": -0.1,
+      "score": 0.625
+    },
+    {
+      "id": "d03c84658f",
+      "date": "2025-12-04",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 23.9,
+      "score": 0.6212
+    },
+    {
+      "id": "8e232969cf",
+      "date": "2025-12-16",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -22.4,
+      "score": 0.6208
+    },
+    {
+      "id": "931c4e71d1",
+      "date": "2025-12-22",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -30.8,
+      "score": 0.6207
+    },
+    {
+      "id": "4a276744d8",
+      "date": "2025-12-17",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 19.8,
+      "score": 0.6199
+    },
+    {
+      "id": "b8fd7afa67",
+      "date": "2025-11-26",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -29.6,
+      "score": 0.6182
+    },
+    {
+      "id": "59396c2fc0",
+      "date": "2025-12-16",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": 0.2,
+      "score": 0.6181
+    },
+    {
+      "id": "e57cc5ee07",
+      "date": "2025-12-23",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -27.0,
+      "score": 0.6178
+    },
+    {
+      "id": "6b7992ebdf",
+      "date": "2025-12-10",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -20.2,
+      "score": 0.6177
+    },
+    {
+      "id": "49e76cf974",
+      "date": "2025-11-17",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 17.0,
+      "score": 0.6137
+    },
+    {
+      "id": "609e84ab95",
+      "date": "2025-12-12",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -20.0,
+      "score": 0.6131
+    },
+    {
+      "id": "cd2d45294b",
+      "date": "2025-12-09",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -24.5,
+      "score": 0.613
+    },
+    {
+      "id": "21e1837e40",
+      "date": "2025-12-01",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -26.3,
+      "score": 0.6128
+    },
+    {
+      "id": "ffcfae8689",
+      "date": "2025-11-27",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -18.3,
+      "score": 0.6113
+    },
+    {
+      "id": "e11d5aed4b",
+      "date": "2025-12-02",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -23.5,
+      "score": 0.6107
+    },
+    {
+      "id": "08b5da505b",
+      "date": "2025-12-17",
+      "warehouse": "WH-South (Atlanta)",
+      "margin_pct": -15.1,
+      "score": 0.6097
+    },
+    {
+      "id": "3b0e486bcb",
+      "date": "2025-12-02",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 24.1,
+      "score": 0.6077
+    },
+    {
+      "id": "b6b896ec5f",
+      "date": "2025-11-17",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": -0.8,
+      "score": 0.606
+    },
+    {
+      "id": "45208e8533",
+      "date": "2025-12-11",
+      "warehouse": "WH-West (Reno)",
+      "margin_pct": 6.7,
+      "score": 0.6031
+    },
+    {
+      "id": "82cd1890f1",
+      "date": "2025-11-19",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 21.9,
+      "score": 0.5999
+    },
+    {
+      "id": "6013a1e5b6",
+      "date": "2025-12-01",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 27.9,
+      "score": 0.5998
+    },
+    {
+      "id": "d6b9448559",
+      "date": "2025-11-20",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": -3.5,
+      "score": 0.5964
+    },
+    {
+      "id": "db660d37b4",
+      "date": "2025-12-19",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": 7.6,
+      "score": 0.5963
+    },
+    {
+      "id": "b9c272e25e",
+      "date": "2025-12-05",
+      "warehouse": "WH-West (Reno)",
+      "margin_pct": 0.1,
+      "score": 0.5959
+    },
+    {
+      "id": "1e94bce7eb",
+      "date": "2025-11-27",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 12.4,
+      "score": 0.5957
+    },
+    {
+      "id": "194b811846",
+      "date": "2025-12-11",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": 0.4,
+      "score": 0.5946
+    },
+    {
+      "id": "2add5dbc07",
+      "date": "2025-12-15",
+      "warehouse": "WH-East (Newark)",
+      "margin_pct": -2.6,
+      "score": 0.5929
+    },
+    {
+      "id": "57cd93584d",
+      "date": "2025-12-10",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 23.1,
+      "score": 0.5926
+    },
+    {
+      "id": "1772177dba",
+      "date": "2025-12-09",
+      "warehouse": "WH-Central (Dallas)",
+      "margin_pct": 23.4,
+      "score": 0.5912
+    },
+    {
+      "id": "de83e47f6c",
+      "date": "2025-12-19",
+      "warehouse": "WH-West (Reno)",
+      "margin_pct": 11.2,
+      "score": 0.5902
+    }
+  ]
+}

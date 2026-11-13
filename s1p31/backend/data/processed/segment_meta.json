@@ -1,0 +1,20 @@
+{
+  "features": [
+    "Units_per_Labor_Hour",
+    "Temp_Labor_Share_pct",
+    "overtime_ratio",
+    "On_Time_Ship_pct",
+    "Pick_Accuracy_pct",
+    "Storage_Utilization_pct"
+  ],
+  "silhouette": 0.40917851909196895,
+  "anomaly_count": 50,
+  "anomaly_rate_pct": 5.0,
+  "low_margin_rate_anomalies": 0.7,
+  "low_margin_rate_others": 0.22736842105263158,
+  "segment_sizes": {
+    "Low": 500,
+    "Medium": 392,
+    "High": 108
+  }
+}

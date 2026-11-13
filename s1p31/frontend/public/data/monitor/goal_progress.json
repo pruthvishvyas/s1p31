@@ -1,0 +1,15 @@
+{
+  "window_days": 30,
+  "as_of": "2026-09-15",
+  "revenue_actual": 4502525.21,
+  "revenue_target": null,
+  "revenue_status": "target not set",
+  "margin_pct_actual": 10.266,
+  "margin_target_pct": null,
+  "margin_status": "target not set",
+  "on_time_actual": 98.307,
+  "on_time_status": "on track",
+  "revenue_change_pct": 10.2,
+  "margin_change_pts": 0.241,
+  "p1_count": 4
+}

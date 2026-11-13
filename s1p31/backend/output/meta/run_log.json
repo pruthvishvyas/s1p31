@@ -1,0 +1,135 @@
+{
+  "runs": [
+    {
+      "finished": "2026-11-12T10:33:52",
+      "stages": [
+        {
+          "stage": "Data intake",
+          "status": "ok",
+          "seconds": 0.1,
+          "reason": "",
+          "outputs": [
+            "validation_report.json"
+          ]
+        },
+        {
+          "stage": "Data cleaning",
+          "status": "ok",
+          "seconds": 0.1,
+          "reason": "",
+          "outputs": [
+            "clean_data.csv",
+            "cleaning_log.json"
+          ]
+        },
+        {
+          "stage": "Feature engineering",
+          "status": "ok",
+          "seconds": 0.1,
+          "reason": "",
+          "outputs": [
+            "feature_store.csv",
+            "target_meta.json"
+          ]
+        },
+        {
+          "stage": "Exploratory charts",
+          "status": "ok",
+          "seconds": 2.7,
+          "reason": "",
+          "outputs": [
+            "chart_registry.json"
+          ]
+        },
+        {
+          "stage": "Low-margin risk model",
+          "status": "ok",
+          "seconds": 13.9,
+          "reason": "",
+          "outputs": [
+            "model_metrics.json",
+            "primary_model.joblib",
+            "model_predictions.csv"
+          ]
+        },
+        {
+          "stage": "Segments and unusual days",
+          "status": "ok",
+          "seconds": 1.3,
+          "reason": "",
+          "outputs": [
+            "segments_anomalies.csv",
+            "segment_meta.json"
+          ]
+        },
+        {
+          "stage": "Margin regression",
+          "status": "ok",
+          "seconds": 2.4,
+          "reason": "",
+          "outputs": [
+            "regression_metrics.json"
+          ]
+        },
+        {
+          "stage": "Revenue forecast",
+          "status": "ok",
+          "seconds": 0.0,
+          "reason": "",
+          "outputs": [
+            "forecast_output.csv",
+            "forecast_metrics.json"
+          ]
+        },
+        {
+          "stage": "Alerts and actions",
+          "status": "ok",
+          "seconds": 0.2,
+          "reason": "",
+          "outputs": [
+            "business_actions.csv"
+          ]
+        },
+        {
+          "stage": "What-if scenarios",
+          "status": "ok",
+          "seconds": 0.0,
+          "reason": "",
+          "outputs": [
+            "scenario_index.json"
+          ]
+        },
+        {
+          "stage": "Targets and goal progress",
+          "status": "ok",
+          "seconds": 0.0,
+          "reason": "",
+          "outputs": [
+            "goal_progress.json",
+            "alerts.json"
+          ]
+        },
+        {
+          "stage": "Insights",
+          "status": "ok",
+          "seconds": 0.1,
+          "reason": "",
+          "outputs": [
+            "insights.json"
+          ]
+        },
+        {
+          "stage": "Workbook and dashboard",
+          "status": "ok",
+          "seconds": 7.8,
+          "reason": "",
+          "outputs": [
+            "s1p31_report.xlsx",
+            "interactive_dashboard.html"
+          ]
+        }
+      ]
+    }
+  ],
+  "last_run": "2026-11-12T10:33:52"
+}

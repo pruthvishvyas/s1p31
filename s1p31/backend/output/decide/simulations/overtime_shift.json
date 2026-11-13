@@ -1,0 +1,68 @@
+{
+  "id": "overtime_shift",
+  "title": "Move overtime hours to regular time",
+  "variable": "share of overtime hours moved to regular time (%)",
+  "assumptions": {
+    "overtime_premium": 0.5,
+    "average_labor_cost_per_hour": 32.3729,
+    "period_days": 250
+  },
+  "points": [
+    {
+      "x": 0,
+      "savings": 0.0,
+      "margin_points": 0.0
+    },
+    {
+      "x": 10,
+      "savings": 121700.29,
+      "margin_points": 0.2287
+    },
+    {
+      "x": 20,
+      "savings": 243400.57,
+      "margin_points": 0.4575
+    },
+    {
+      "x": 30,
+      "savings": 365100.86,
+      "margin_points": 0.6862
+    },
+    {
+      "x": 40,
+      "savings": 486801.15,
+      "margin_points": 0.9149
+    },
+    {
+      "x": 50,
+      "savings": 608501.43,
+      "margin_points": 1.1436
+    },
+    {
+      "x": 60,
+      "savings": 730201.72,
+      "margin_points": 1.3724
+    },
+    {
+      "x": 70,
+      "savings": 851902.01,
+      "margin_points": 1.6011
+    },
+    {
+      "x": 80,
+      "savings": 973602.29,
+      "margin_points": 1.8298
+    },
+    {
+      "x": 90,
+      "savings": 1095302.58,
+      "margin_points": 2.0586
+    },
+    {
+      "x": 100,
+      "savings": 1217002.86,
+      "margin_points": 2.2873
+    }
+  ],
+  "period_total_revenue": 53207128.7
+}

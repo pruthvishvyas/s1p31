@@ -1,0 +1,23 @@
+[
+  {
+    "segment": "High",
+    "site_days": 108,
+    "margin_pct": 0.3046,
+    "risk_score": 81.0382,
+    "low_margin_rate": 0.463
+  },
+  {
+    "segment": "Low",
+    "site_days": 500,
+    "margin_pct": 14.1018,
+    "risk_score": 41.0964,
+    "low_margin_rate": 0.012
+  },
+  {
+    "segment": "Medium",
+    "site_days": 392,
+    "margin_pct": -1.2467,
+    "risk_score": 52.9325,
+    "low_margin_rate": 0.4974
+  }
+]

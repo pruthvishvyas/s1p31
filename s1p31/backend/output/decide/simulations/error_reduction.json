@@ -1,0 +1,67 @@
+{
+  "id": "error_reduction",
+  "title": "Cut error cost through better picking",
+  "variable": "reduction in error cost (%)",
+  "assumptions": {
+    "error_cost_scales_with_errors": true,
+    "period_days": 250
+  },
+  "points": [
+    {
+      "x": 0,
+      "savings": 0.0,
+      "margin_points": 0.0
+    },
+    {
+      "x": 5,
+      "savings": 112487.45,
+      "margin_points": 0.2114
+    },
+    {
+      "x": 10,
+      "savings": 224974.9,
+      "margin_points": 0.4228
+    },
+    {
+      "x": 15,
+      "savings": 337462.35,
+      "margin_points": 0.6342
+    },
+    {
+      "x": 20,
+      "savings": 449949.8,
+      "margin_points": 0.8457
+    },
+    {
+      "x": 25,
+      "savings": 562437.25,
+      "margin_points": 1.0571
+    },
+    {
+      "x": 30,
+      "savings": 674924.7,
+      "margin_points": 1.2685
+    },
+    {
+      "x": 35,
+      "savings": 787412.15,
+      "margin_points": 1.4799
+    },
+    {
+      "x": 40,
+      "savings": 899899.6,
+      "margin_points": 1.6913
+    },
+    {
+      "x": 45,
+      "savings": 1012387.05,
+      "margin_points": 1.9027
+    },
+    {
+      "x": 50,
+      "savings": 1124874.5,
+      "margin_points": 2.1141
+    }
+  ],
+  "period_total_revenue": 53207128.7
+}

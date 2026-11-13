@@ -1,0 +1,14 @@
+{
+  "task": "forecast",
+  "series": "average revenue per site-day",
+  "n_days": 350,
+  "holdout_days": 70,
+  "filled_days": 100,
+  "mae": 3550.7779690431535,
+  "mape": 6.876131638104756,
+  "baseline_mae": 1031.2302976190479,
+  "baseline_mape": 1.988571713171148,
+  "baseline": "seasonal naive (last 7 days repeated)",
+  "horizon_days": 30,
+  "beats_baseline": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rate_by_automation",
+  "title": "Low-margin share by automation level",
+  "type": "bar",
+  "x_label": "Automation | Peak flag",
+  "y_label": "Low-margin share (%)",
+  "data": [
+    {
+      "label": "Automated (AMR/ASRS) | 0",
+      "value": 1.35
+    },
+    {
+      "label": "Automated (AMR/ASRS) | 1",
+      "value": 3.7
+    },
+    {
+      "label": "Manual | 0",
+      "value": 74.89
+    },
+    {
+      "label": "Manual | 1",
+      "value": 100.0
+    },
+    {
+      "label": "Semi-automated | 0",
+      "value": 12.56
+    },
+    {
+      "label": "Semi-automated | 1",
+      "value": 77.78
+    }
+  ]
+}

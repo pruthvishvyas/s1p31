@@ -1,0 +1,818 @@
+{
+  "metrics": {
+    "task": "forecast",
+    "series": "average revenue per site-day",
+    "n_days": 350,
+    "holdout_days": 70,
+    "filled_days": 100,
+    "mae": 3550.7779690431535,
+    "mape": 6.876131638104756,
+    "baseline_mae": 1031.2302976190479,
+    "baseline_mape": 1.988571713171148,
+    "baseline": "seasonal naive (last 7 days repeated)",
+    "horizon_days": 30,
+    "beats_baseline": false
+  },
+  "series": [
+    {
+      "date": "2026-07-18",
+      "value": 49768.36,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-19",
+      "value": 51928.48,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-20",
+      "value": 54088.59,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-21",
+      "value": 52801.82,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-22",
+      "value": 50383.87,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-23",
+      "value": 51373.03,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-24",
+      "value": 49636.64,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-25",
+      "value": 51265.19,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-26",
+      "value": 52893.74,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-27",
+      "value": 54522.29,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-28",
+      "value": 53574.33,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-29",
+      "value": 51985.44,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-30",
+      "value": 49883.77,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-31",
+      "value": 48276.91,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-01",
+      "value": 50576.42,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-02",
+      "value": 52875.92,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-03",
+      "value": 55175.42,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-04",
+      "value": 53361.8,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-05",
+      "value": 48236.0,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-06",
+      "value": 49951.93,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-07",
+      "value": 47031.76,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-08",
+      "value": 49340.04,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-09",
+      "value": 51648.33,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-10",
+      "value": 53956.61,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-11",
+      "value": 49479.76,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-12",
+      "value": 48569.76,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-13",
+      "value": 49971.19,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-14",
+      "value": 49212.32,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-15",
+      "value": 51239.45,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-16",
+      "value": 53266.59,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-17",
+      "value": 55293.72,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-18",
+      "value": 52784.42,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-19",
+      "value": 49085.04,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-20",
+      "value": 47934.04,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-21",
+      "value": 47590.44,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-22",
+      "value": 50436.57,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-23",
+      "value": 53282.69,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-24",
+      "value": 56128.82,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-25",
+      "value": 54119.0,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-26",
+      "value": 49951.68,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-27",
+      "value": 49873.3,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-28",
+      "value": 48516.18,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-29",
+      "value": 50141.74,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-30",
+      "value": 51767.3,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-08-31",
+      "value": 53392.86,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-01",
+      "value": 51099.47,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-02",
+      "value": 49435.94,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-03",
+      "value": 49934.66,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-04",
+      "value": 47385.89,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-05",
+      "value": 50056.09,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-06",
+      "value": 52726.29,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-07",
+      "value": 55396.5,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-08",
+      "value": 51121.56,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-09",
+      "value": 50353.59,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-10",
+      "value": 50667.04,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-11",
+      "value": 47046.36,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-12",
+      "value": 50203.31,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-13",
+      "value": 53360.26,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-14",
+      "value": 56517.2,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-09-15",
+      "value": 52003.6,
+      "kind": "actual"
+    },
+    {
+      "date": "2026-07-08",
+      "value": 48033.92,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-09",
+      "value": 47830.38,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-10",
+      "value": 46338.22,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-11",
+      "value": 48180.34,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-12",
+      "value": 50022.46,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-13",
+      "value": 51864.59,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-14",
+      "value": 48798.36,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-15",
+      "value": 47780.97,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-16",
+      "value": 47577.43,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-17",
+      "value": 46085.27,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-18",
+      "value": 47927.39,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-19",
+      "value": 49769.51,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-20",
+      "value": 51611.64,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-21",
+      "value": 48545.41,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-22",
+      "value": 47528.02,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-23",
+      "value": 47324.48,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-24",
+      "value": 45832.32,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-25",
+      "value": 47674.44,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-26",
+      "value": 49516.56,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-27",
+      "value": 51358.69,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-28",
+      "value": 48292.46,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-29",
+      "value": 47275.07,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-30",
+      "value": 47071.53,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-07-31",
+      "value": 45579.37,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-01",
+      "value": 47421.49,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-02",
+      "value": 49263.61,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-03",
+      "value": 51105.73,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-04",
+      "value": 48039.51,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-05",
+      "value": 47022.12,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-06",
+      "value": 46818.58,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-07",
+      "value": 45326.42,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-08",
+      "value": 47168.54,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-09",
+      "value": 49010.66,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-10",
+      "value": 50852.78,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-11",
+      "value": 47786.56,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-12",
+      "value": 46769.17,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-13",
+      "value": 46565.63,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-14",
+      "value": 45073.47,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-15",
+      "value": 46915.59,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-16",
+      "value": 48757.71,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-17",
+      "value": 50599.83,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-18",
+      "value": 47533.61,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-19",
+      "value": 46516.22,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-20",
+      "value": 46312.68,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-21",
+      "value": 44820.52,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-22",
+      "value": 46662.64,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-23",
+      "value": 48504.76,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-24",
+      "value": 50346.88,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-25",
+      "value": 47280.66,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-26",
+      "value": 46263.27,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-27",
+      "value": 46059.73,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-28",
+      "value": 44567.57,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-29",
+      "value": 46409.69,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-30",
+      "value": 48251.81,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-08-31",
+      "value": 50093.93,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-01",
+      "value": 47027.71,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-02",
+      "value": 46010.32,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-03",
+      "value": 45806.78,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-04",
+      "value": 44314.62,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-05",
+      "value": 46156.74,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-06",
+      "value": 47998.86,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-07",
+      "value": 49840.98,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-08",
+      "value": 46774.76,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-09",
+      "value": 45757.37,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-10",
+      "value": 45553.83,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-11",
+      "value": 44061.67,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-12",
+      "value": 45903.79,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-13",
+      "value": 47745.91,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-14",
+      "value": 49588.03,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-15",
+      "value": 46521.81,
+      "kind": "holdout_prediction"
+    },
+    {
+      "date": "2026-09-16",
+      "value": 47908.4,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-17",
+      "value": 47750.83,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-18",
+      "value": 46130.74,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-19",
+      "value": 48083.56,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-20",
+      "value": 50036.39,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-21",
+      "value": 51989.22,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-22",
+      "value": 48934.29,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-23",
+      "value": 47725.49,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-24",
+      "value": 47567.91,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-25",
+      "value": 45947.82,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-26",
+      "value": 47900.64,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-27",
+      "value": 49853.47,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-28",
+      "value": 51806.3,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-29",
+      "value": 48751.37,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-09-30",
+      "value": 47542.57,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-01",
+      "value": 47384.99,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-02",
+      "value": 45764.9,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-03",
+      "value": 47717.73,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-04",
+      "value": 49670.55,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-05",
+      "value": 51623.38,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-06",
+      "value": 48568.45,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-07",
+      "value": 47359.65,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-08",
+      "value": 47202.07,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-09",
+      "value": 45581.98,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-10",
+      "value": 47534.81,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-11",
+      "value": 49487.63,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-12",
+      "value": 51440.46,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-13",
+      "value": 48385.53,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-14",
+      "value": 47176.73,
+      "kind": "forecast"
+    },
+    {
+      "date": "2026-10-15",
+      "value": 47019.15,
+      "kind": "forecast"
+    }
+  ]
+}

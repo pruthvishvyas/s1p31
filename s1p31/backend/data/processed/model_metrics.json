@@ -1,0 +1,124 @@
+{
+  "task": "classification",
+  "target": "low_margin",
+  "n_rows": 1000,
+  "n_train": 750,
+  "n_test": 250,
+  "folds": 5,
+  "low_sample": false,
+  "naive": {
+    "majority_accuracy": 0.748,
+    "auc": 0.5
+  },
+  "rule_baseline": {
+    "accuracy": 0.74,
+    "auc": 0.7926322043969103
+  },
+  "models": [
+    {
+      "model": "Logistic Regression",
+      "cv_auc_mean": 0.9959592760303053,
+      "cv_auc_std": 0.00216742656614074,
+      "test_auc": 0.9975384093031151,
+      "test_acc": 0.972
+    },
+    {
+      "model": "Random Forest",
+      "cv_auc_mean": 0.9917600859059872,
+      "cv_auc_std": 0.004306284514929561,
+      "test_auc": 0.9964349376114082,
+      "test_acc": 0.976
+    },
+    {
+      "model": "Gradient Boosting",
+      "cv_auc_mean": 0.9927863338086904,
+      "cv_auc_std": 0.003773137571822007,
+      "test_auc": 0.998472116119175,
+      "test_acc": 0.98
+    },
+    {
+      "model": "XGBoost",
+      "cv_auc_mean": 0.9937942500355168,
+      "cv_auc_std": 0.002235615160159987,
+      "test_auc": 0.9983872336813513,
+      "test_acc": 0.984
+    }
+  ],
+  "best": "Logistic Regression",
+  "beats_baseline": true,
+  "test_recall_low_margin": 0.9841269841269841,
+  "test_precision_low_margin": 0.9117647058823529,
+  "leakage_dropped": [
+    {
+      "feature": "Units_per_Labor_Hour",
+      "reason": "single-feature AUC 0.972, correlation 0.708"
+    },
+    {
+      "feature": "weekend_flag",
+      "reason": "constant"
+    }
+  ],
+  "top_features": [
+    [
+      "overtime_ratio",
+      0.03368135132841006
+    ],
+    [
+      "Overtime_Hours",
+      0.032153467447585
+    ],
+    [
+      "units_per_k_sqft",
+      0.01670486376368723
+    ],
+    [
+      "units_per_order",
+      0.013496307613954595
+    ],
+    [
+      "Order_Lines",
+      0.006451065274594603
+    ],
+    [
+      "Orders_Received",
+      0.005008063831593179
+    ],
+    [
+      "Temp_Labor_Share_pct",
+      0.0048892284186401016
+    ],
+    [
+      "Units_Shipped",
+      0.004142262965792298
+    ],
+    [
+      "orders_per_labor_hr",
+      0.004040404040404
+    ],
+    [
+      "Orders_Shipped",
+      0.0037687802393683743
+    ],
+    [
+      "fulfilment_rate",
+      0.0028520499108733556
+    ],
+    [
+      "mispicks_per_k_units",
+      0.0025974025974024872
+    ],
+    [
+      "Pick_Accuracy_pct",
+      0.002444614209319984
+    ],
+    [
+      "lines_per_order",
+      0.0017995076818605681
+    ],
+    [
+      "Direct_Labor_Hours",
+      0.0012902130549188539
+    ]
+  ],
+  "split": "stratified, seed 42"
+}

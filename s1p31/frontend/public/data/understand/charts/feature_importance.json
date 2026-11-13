@@ -1,0 +1,69 @@
+{
+  "id": "feature_importance",
+  "title": "Top drivers of low-margin days",
+  "type": "bar",
+  "x_label": "Feature",
+  "y_label": "AUC drop",
+  "data": [
+    {
+      "label": "overtime_ratio",
+      "value": 0.0337
+    },
+    {
+      "label": "Overtime_Hours",
+      "value": 0.0322
+    },
+    {
+      "label": "units_per_k_sqft",
+      "value": 0.0167
+    },
+    {
+      "label": "units_per_order",
+      "value": 0.0135
+    },
+    {
+      "label": "Order_Lines",
+      "value": 0.0065
+    },
+    {
+      "label": "Orders_Received",
+      "value": 0.005
+    },
+    {
+      "label": "Temp_Labor_Share_pct",
+      "value": 0.0049
+    },
+    {
+      "label": "Units_Shipped",
+      "value": 0.0041
+    },
+    {
+      "label": "orders_per_labor_hr",
+      "value": 0.004
+    },
+    {
+      "label": "Orders_Shipped",
+      "value": 0.0038
+    },
+    {
+      "label": "fulfilment_rate",
+      "value": 0.0029
+    },
+    {
+      "label": "mispicks_per_k_units",
+      "value": 0.0026
+    },
+    {
+      "label": "Pick_Accuracy_pct",
+      "value": 0.0024
+    },
+    {
+      "label": "lines_per_order",
+      "value": 0.0018
+    },
+    {
+      "label": "Direct_Labor_Hours",
+      "value": 0.0013
+    }
+  ]
+}

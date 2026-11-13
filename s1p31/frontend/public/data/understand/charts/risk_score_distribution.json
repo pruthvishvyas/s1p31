@@ -1,0 +1,89 @@
+{
+  "id": "risk_score_distribution",
+  "title": "Operational risk score",
+  "type": "histogram",
+  "x_label": "Risk score",
+  "y_label": "Site-days",
+  "data": [
+    {
+      "label": 14.82,
+      "value": 7
+    },
+    {
+      "label": 18.75,
+      "value": 18
+    },
+    {
+      "label": 22.68,
+      "value": 21
+    },
+    {
+      "label": 26.6,
+      "value": 61
+    },
+    {
+      "label": 30.53,
+      "value": 68
+    },
+    {
+      "label": 34.46,
+      "value": 101
+    },
+    {
+      "label": 38.39,
+      "value": 96
+    },
+    {
+      "label": 42.32,
+      "value": 98
+    },
+    {
+      "label": 46.24,
+      "value": 117
+    },
+    {
+      "label": 50.17,
+      "value": 80
+    },
+    {
+      "label": 54.1,
+      "value": 59
+    },
+    {
+      "label": 58.03,
+      "value": 34
+    },
+    {
+      "label": 61.96,
+      "value": 35
+    },
+    {
+      "label": 65.88,
+      "value": 34
+    },
+    {
+      "label": 69.81,
+      "value": 39
+    },
+    {
+      "label": 73.74,
+      "value": 44
+    },
+    {
+      "label": 77.67,
+      "value": 38
+    },
+    {
+      "label": 81.6,
+      "value": 27
+    },
+    {
+      "label": 85.52,
+      "value": 13
+    },
+    {
+      "label": 89.45,
+      "value": 10
+    }
+  ]
+}

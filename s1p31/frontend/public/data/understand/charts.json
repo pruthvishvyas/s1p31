@@ -1,0 +1,86 @@
+[
+  {
+    "id": "target_balance",
+    "title": "Site-days by margin group",
+    "type": "bar",
+    "tab": "understand",
+    "file": "understand/charts/target_balance.json"
+  },
+  {
+    "id": "productivity_distribution",
+    "title": "Units per labor hour",
+    "type": "histogram",
+    "tab": "understand",
+    "file": "understand/charts/productivity_distribution.json"
+  },
+  {
+    "id": "correlation_map",
+    "title": "Correlation of key measures",
+    "type": "heatmap",
+    "tab": "understand",
+    "file": "understand/charts/correlation_map.json"
+  },
+  {
+    "id": "rate_by_automation",
+    "title": "Low-margin share by automation level",
+    "type": "bar",
+    "tab": "decide",
+    "file": "understand/charts/rate_by_automation.json"
+  },
+  {
+    "id": "risk_score_distribution",
+    "title": "Operational risk score",
+    "type": "histogram",
+    "tab": "decide",
+    "file": "understand/charts/risk_score_distribution.json"
+  },
+  {
+    "id": "agency_share_vs_margin",
+    "title": "Agency labor share against margin",
+    "type": "scatter",
+    "tab": "decide",
+    "file": "understand/charts/agency_share_vs_margin.json"
+  },
+  {
+    "id": "site_weekday_rate",
+    "title": "Low-margin share by site and weekday",
+    "type": "heatmap",
+    "tab": "monitor",
+    "file": "understand/charts/site_weekday_rate.json"
+  },
+  {
+    "id": "monthly_margin_trend",
+    "title": "Monthly margin",
+    "type": "line",
+    "tab": "monitor",
+    "file": "understand/charts/monthly_margin_trend.json"
+  },
+  {
+    "id": "feature_importance",
+    "title": "Top drivers of low-margin days",
+    "type": "bar",
+    "tab": "understand",
+    "file": "understand/charts/feature_importance.json"
+  },
+  {
+    "id": "segment_sizes",
+    "title": "Site-days by risk segment",
+    "type": "bar",
+    "tab": "understand",
+    "file": "understand/charts/segment_sizes.json"
+  },
+  {
+    "id": "anomaly_rate_by_site",
+    "title": "Unusual site-days by warehouse",
+    "type": "bar",
+    "tab": "decide",
+    "file": "understand/charts/anomaly_rate_by_site.json"
+  },
+  {
+    "id": "priority_breakdown",
+    "title": "Site-days by priority",
+    "type": "bar",
+    "tab": "decide",
+    "file": "understand/charts/priority_breakdown.json"
+  }
+]

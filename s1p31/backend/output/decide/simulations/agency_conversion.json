@@ -1,0 +1,68 @@
+{
+  "id": "agency_conversion",
+  "title": "Convert agency hours to permanent hours",
+  "variable": "share of agency hours converted (%)",
+  "assumptions": {
+    "agency_markup": 0.2,
+    "average_labor_cost_per_hour": 32.3729,
+    "period_days": 250
+  },
+  "points": [
+    {
+      "x": 0,
+      "savings": 0.0,
+      "margin_points": 0.0
+    },
+    {
+      "x": 10,
+      "savings": 55152.29,
+      "margin_points": 0.1037
+    },
+    {
+      "x": 20,
+      "savings": 110304.58,
+      "margin_points": 0.2073
+    },
+    {
+      "x": 30,
+      "savings": 165456.88,
+      "margin_points": 0.311
+    },
+    {
+      "x": 40,
+      "savings": 220609.17,
+      "margin_points": 0.4146
+    },
+    {
+      "x": 50,
+      "savings": 275761.46,
+      "margin_points": 0.5183
+    },
+    {
+      "x": 60,
+      "savings": 330913.75,
+      "margin_points": 0.6219
+    },
+    {
+      "x": 70,
+      "savings": 386066.05,
+      "margin_points": 0.7256
+    },
+    {
+      "x": 80,
+      "savings": 441218.34,
+      "margin_points": 0.8292
+    },
+    {
+      "x": 90,
+      "savings": 496370.63,
+      "margin_points": 0.9329
+    },
+    {
+      "x": 100,
+      "savings": 551522.92,
+      "margin_points": 1.0366
+    }
+  ],
+  "period_total_revenue": 53207128.7
+}

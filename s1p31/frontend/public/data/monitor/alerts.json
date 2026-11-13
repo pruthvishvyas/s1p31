@@ -1,0 +1,9 @@
+[
+  {
+    "id": "urgent_site_days",
+    "severity": "MEDIUM",
+    "message": "Urgent site-days in the latest period",
+    "value": 4,
+    "threshold": 0
+  }
+]

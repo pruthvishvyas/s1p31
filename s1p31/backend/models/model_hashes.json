@@ -1,0 +1,6 @@
+{
+  "primary_model.joblib": "b8096c75464ce4cbc66faba30dd0642900e441764533f0fcf77f1d0950d06a67",
+  "segment_model.joblib": "98d5de7aefd9608b5e6dd7d6a0901d105e171ef41a6cae36dc38318bc22aade9",
+  "anomaly_model.joblib": "49346f2853aad725a174eee087f204c813dd853092f64534269e61cacc3b54e5",
+  "margin_regressor.joblib": "876abf424058011afcdfa6e52a43e803a644af8e3dad6f6b61129de3bb31f298"
+}

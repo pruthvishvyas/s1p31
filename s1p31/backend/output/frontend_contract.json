@@ -1,0 +1,298 @@
+{
+  "generated_at": "2026-11-12T10:34:10",
+  "project": {
+    "name": "s1p31",
+    "domain": "Warehouse fulfilment",
+    "client_id": "s1p31",
+    "description": "Daily warehouse operations, service levels and margin"
+  },
+  "terminology": {
+    "revenue": "Fulfilment revenue",
+    "customer": "Client account",
+    "product": "Service",
+    "transaction": "Order"
+  },
+  "source": {
+    "type": "csv",
+    "file": "data/processed/feature_store.csv"
+  },
+  "outcomes": {
+    "understand": {
+      "kpis": "understand/kpis.json",
+      "charts": "understand/charts.json",
+      "segments": "understand/segments.json",
+      "anomalies": "understand/anomalies.json"
+    },
+    "decide": {
+      "insights": "decide/insights.json",
+      "recommendations": "decide/recommendations.json",
+      "simulations": "decide/simulations.json",
+      "goals": "decide/goals.json"
+    },
+    "monitor": {
+      "forecast": "monitor/forecast.json",
+      "goal_progress": "monitor/goal_progress.json",
+      "alerts": "monitor/alerts.json"
+    }
+  },
+  "model": {
+    "type": "classification",
+    "pkl_file": "primary_model.joblib",
+    "feature_cols_file": "feature_cols.json",
+    "input_fields": [
+      "Warehouse_Sqft",
+      "Orders_Received",
+      "Orders_Shipped",
+      "Backlog_Orders_EOD",
+      "Order_Lines",
+      "Units_Shipped",
+      "Direct_Labor_Hours",
+      "Temp_Labor_Hours"
+    ],
+    "output_label": "low_margin",
+    "horizon": "same day"
+  },
+  "forecaster": {
+    "input_schema": [
+      {
+        "name": "Warehouse_Sqft",
+        "type": "float",
+        "range": [
+          100000.0,
+          180000.0
+        ]
+      },
+      {
+        "name": "Orders_Received",
+        "type": "float",
+        "range": [
+          2443.0,
+          14617.0
+        ]
+      },
+      {
+        "name": "Orders_Shipped",
+        "type": "float",
+        "range": [
+          2443.0,
+          13236.0
+        ]
+      },
+      {
+        "name": "Backlog_Orders_EOD",
+        "type": "float",
+        "range": [
+          0.0,
+          44914.0
+        ]
+      },
+      {
+        "name": "Order_Lines",
+        "type": "float",
+        "range": [
+          4803.0,
+          30669.0
+        ]
+      },
+      {
+        "name": "Units_Shipped",
+        "type": "float",
+        "range": [
+          5928.0,
+          31648.0
+        ]
+      },
+      {
+        "name": "Direct_Labor_Hours",
+        "type": "float",
+        "range": [
+          342.8,
+          881.8
+        ]
+      },
+      {
+        "name": "Temp_Labor_Hours",
+        "type": "float",
+        "range": [
+          38.2,
+          162.475
+        ]
+      }
+    ],
+    "output_schema": {
+      "prediction": "int",
+      "probability": "float",
+      "risk_level": "str"
+    }
+  },
+  "frontend": {
+    "framework": "vanilla HTML/JS",
+    "deploy_target": "cloudflare_pages"
+  },
+  "files": [
+    {
+      "filename": "understand/kpis.json",
+      "purpose": "kpis",
+      "schema": "list"
+    },
+    {
+      "filename": "understand/segments.json",
+      "purpose": "segments",
+      "schema": "list"
+    },
+    {
+      "filename": "understand/anomalies.json",
+      "purpose": "anomalies",
+      "schema": [
+        "count",
+        "rate",
+        "rows"
+      ]
+    },
+    {
+      "filename": "understand/charts.json",
+      "purpose": "charts",
+      "schema": "list"
+    },
+    {
+      "filename": "decide/insights.json",
+      "purpose": "insights",
+      "schema": "list"
+    },
+    {
+      "filename": "decide/recommendations.json",
+      "purpose": "recommendations",
+      "schema": [
+        "priority_counts",
+        "rows"
+      ]
+    },
+    {
+      "filename": "decide/simulations/overtime_shift.json",
+      "purpose": "overtime shift",
+      "schema": [
+        "assumptions",
+        "id",
+        "period_total_revenue",
+        "points",
+        "title",
+        "variable"
+      ]
+    },
+    {
+      "filename": "decide/simulations/agency_conversion.json",
+      "purpose": "agency conversion",
+      "schema": [
+        "assumptions",
+        "id",
+        "period_total_revenue",
+        "points",
+        "title",
+        "variable"
+      ]
+    },
+    {
+      "filename": "decide/simulations/error_reduction.json",
+      "purpose": "error reduction",
+      "schema": [
+        "assumptions",
+        "id",
+        "period_total_revenue",
+        "points",
+        "title",
+        "variable"
+      ]
+    },
+    {
+      "filename": "decide/simulations.json",
+      "purpose": "simulations",
+      "schema": "list"
+    },
+    {
+      "filename": "decide/goals.json",
+      "purpose": "goals",
+      "schema": [
+        "alert_drop_pct",
+        "forecast_horizon",
+        "margin_target_pct",
+        "on_time_target_pct",
+        "revenue_target"
+      ]
+    },
+    {
+      "filename": "monitor/forecast.json",
+      "purpose": "forecast",
+      "schema": [
+        "metrics",
+        "series"
+      ]
+    },
+    {
+      "filename": "monitor/goal_progress.json",
+      "purpose": "goal progress",
+      "schema": [
+        "as_of",
+        "margin_change_pts",
+        "margin_pct_actual",
+        "margin_status",
+        "margin_target_pct",
+        "on_time_actual",
+        "on_time_status",
+        "p1_count",
+        "revenue_actual",
+        "revenue_change_pct",
+        "revenue_status",
+        "revenue_target",
+        "window_days"
+      ]
+    },
+    {
+      "filename": "monitor/alerts.json",
+      "purpose": "alerts",
+      "schema": "list"
+    },
+    {
+      "filename": "meta/terminology.json",
+      "purpose": "terminology",
+      "schema": [
+        "customer",
+        "product",
+        "revenue",
+        "transaction"
+      ]
+    },
+    {
+      "filename": "meta/summary.json",
+      "purpose": "summary",
+      "schema": [
+        "domain",
+        "first_date",
+        "last_date",
+        "rows",
+        "sites"
+      ]
+    },
+    {
+      "filename": "meta/model_meta.json",
+      "purpose": "model meta",
+      "schema": [
+        "algorithm",
+        "feature_cols",
+        "feature_count",
+        "model_name",
+        "models_ready"
+      ]
+    },
+    {
+      "filename": "meta/model_meta.json",
+      "purpose": "model meta",
+      "schema": [
+        "algorithm",
+        "feature_cols",
+        "feature_count",
+        "model_name",
+        "models_ready"
+      ]
+    }
+  ]
+}

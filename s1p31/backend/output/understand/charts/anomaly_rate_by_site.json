@@ -1,0 +1,25 @@
+{
+  "id": "anomaly_rate_by_site",
+  "title": "Unusual site-days by warehouse",
+  "type": "bar",
+  "x_label": "Warehouse",
+  "y_label": "Share unusual (%)",
+  "data": [
+    {
+      "label": "WH-Central (Dallas)",
+      "value": 4.4
+    },
+    {
+      "label": "WH-East (Newark)",
+      "value": 3.2
+    },
+    {
+      "label": "WH-South (Atlanta)",
+      "value": 10.8
+    },
+    {
+      "label": "WH-West (Reno)",
+      "value": 1.6
+    }
+  ]
+}

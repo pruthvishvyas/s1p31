@@ -1,0 +1,90 @@
+[
+  {
+    "severity": "HIGH",
+    "category": "Margin Health",
+    "finding": "One site-day in four sits in the weakest margin band",
+    "evidence": "251 of 1000 site-days have a margin at or below 0.6 percent; overall margin is 8.91 percent",
+    "action": "Review the flagged site-days in the action sheet and agree one fix per site this week",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "HIGH",
+    "category": "Site Performance",
+    "finding": "WH-South (Atlanta) earns the lowest margin of the warehouses",
+    "evidence": "WH-South (Atlanta) -10.15 percent against WH-Central (Dallas) 17.77 percent",
+    "action": "Ask the WH-South (Atlanta) manager for a cost walk-through before the next planning meeting",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "HIGH",
+    "category": "Cost Drivers",
+    "finding": "overtime_ratio is the measure most tied to weak margin days",
+    "evidence": "Low-margin share is 42.4 percent when it is in the top quarter (250 site-days) against 10.9 percent in the bottom quarter (258 site-days)",
+    "action": "Set a weekly limit for overtime_ratio and review the site-days above it",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "MEDIUM",
+    "category": "Capacity and Automation",
+    "finding": "Manual sites earn the lowest margin by automation level",
+    "evidence": "Manual -10.15 percent, Semi-automated 6.03 percent, Automated (AMR/ASRS) 14.93 percent",
+    "action": "Check whether the Manual gap comes from volume or from labor mix before any investment decision",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "MEDIUM",
+    "category": "Service Levels",
+    "finding": "Overtime Heavy is the most frequent alert",
+    "evidence": "Raised on 524 site-days; low-margin share 33.8 percent with it against 15.5 percent without",
+    "action": "Assign an owner to the overtime heavy action and track the count weekly",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "MEDIUM",
+    "category": "Operational Exceptions",
+    "finding": "Unusual site-days carry a different margin profile",
+    "evidence": "50 unusual site-days average a margin of -9.33 percent against 7.43 percent for the rest",
+    "action": "Walk through the unusual site-days listed in the dashboard and log the cause for each",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "MEDIUM",
+    "category": "Risk Score",
+    "finding": "The operational risk segments separate margin outcomes",
+    "evidence": "Low-margin share is 46.3 percent in the High segment against 1.2 percent in the Low segment",
+    "action": "Use the High segment as the daily watch list for supervisors",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "LOW",
+    "category": "Demand Patterns",
+    "finding": "Peak season changes the margin earned",
+    "evidence": "Peak days 4.99 percent against off-peak 9.62 percent",
+    "action": "Plan peak staffing against the margin gap rather than volume alone",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "MEDIUM",
+    "category": "Labor Efficiency",
+    "finding": "Moving half of overtime to regular hours has a measurable payoff",
+    "evidence": "At 50 percent shifted, savings are 608501.43 over 250 days, 1.1436 margin points",
+    "action": "Test a shift-pattern change at the site with the highest overtime hours",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "LOW",
+    "category": "Model Reliability",
+    "finding": "The low-margin risk model beats its baselines",
+    "evidence": "Logistic Regression held-out AUC 0.998 against 0.5 for a naive guess; rule-based AUC 0.793",
+    "action": "Use the risk score as a watch list only where the model beats the baselines",
+    "outcome": "DECIDE"
+  },
+  {
+    "severity": "LOW",
+    "category": "Demand Patterns",
+    "finding": "Revenue per site-day is not projected better than a naive baseline",
+    "evidence": "Held-out MAPE 6.88 percent against 1.99 percent for a seasonal-naive baseline",
+    "action": "Use the projection for staffing plans only if it beats the baseline",
+    "outcome": "DECIDE"
+  }
+]

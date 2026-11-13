@@ -1,0 +1,26 @@
+{
+  "revenue_target": {
+    "value": null,
+    "unit": "monthly",
+    "client_sets": true
+  },
+  "margin_target_pct": {
+    "value": null,
+    "unit": "percent",
+    "client_sets": true
+  },
+  "on_time_target_pct": {
+    "value": 95,
+    "unit": "percent",
+    "description": "Contract on-time shipping level"
+  },
+  "alert_drop_pct": {
+    "value": 20,
+    "unit": "percent",
+    "description": "Alert if revenue drops by this %"
+  },
+  "forecast_horizon": {
+    "value": 30,
+    "unit": "days"
+  }
+}

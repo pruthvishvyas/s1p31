@@ -1,0 +1,80 @@
+[
+  {
+    "key": "site_days",
+    "label": "Site-days",
+    "value": 1000,
+    "unit": "count"
+  },
+  {
+    "key": "revenue",
+    "label": "Fulfilment revenue",
+    "value": 53207128.7,
+    "unit": "currency"
+  },
+  {
+    "key": "gross_profit",
+    "label": "Gross profit",
+    "value": 4739457.63,
+    "unit": "currency"
+  },
+  {
+    "key": "margin_pct",
+    "label": "Margin",
+    "value": 8.91,
+    "unit": "percent"
+  },
+  {
+    "key": "low_margin_rate",
+    "label": "Low-margin share",
+    "value": 25.1,
+    "unit": "percent"
+  },
+  {
+    "key": "orders_shipped",
+    "label": "Orders shipped",
+    "value": 5443038,
+    "unit": "count"
+  },
+  {
+    "key": "units_shipped",
+    "label": "Units shipped",
+    "value": 14265530,
+    "unit": "count"
+  },
+  {
+    "key": "cost_per_order",
+    "label": "Cost per order",
+    "value": 8.9045,
+    "unit": "currency"
+  },
+  {
+    "key": "on_time_pct",
+    "label": "Average on-time shipping",
+    "value": 91.1855,
+    "unit": "percent"
+  },
+  {
+    "key": "pick_accuracy_pct",
+    "label": "Average pick accuracy",
+    "value": 99.363,
+    "unit": "percent"
+  },
+  {
+    "key": "units_per_labor_hr",
+    "label": "Units per labor hour",
+    "value": 21.5558,
+    "unit": "ratio"
+  },
+  {
+    "key": "urgent_site_days",
+    "label": "Urgent site-days",
+    "value": 215,
+    "unit": "count"
+  },
+  {
+    "key": "unusual_site_days",
+    "label": "Unusual site-days",
+    "value": 50,
+    "unit": "count"
+  }
+]

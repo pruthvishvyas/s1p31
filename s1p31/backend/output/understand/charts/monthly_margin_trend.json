@@ -1,0 +1,57 @@
+{
+  "id": "monthly_margin_trend",
+  "title": "Monthly margin",
+  "type": "line",
+  "x_label": "Month",
+  "y_label": "Margin (%)",
+  "data": [
+    {
+      "label": "2025-10",
+      "value": 9.297
+    },
+    {
+      "label": "2025-11",
+      "value": 6.488
+    },
+    {
+      "label": "2025-12",
+      "value": 5.578
+    },
+    {
+      "label": "2026-01",
+      "value": 8.899
+    },
+    {
+      "label": "2026-02",
+      "value": 9.505
+    },
+    {
+      "label": "2026-03",
+      "value": 9.484
+    },
+    {
+      "label": "2026-04",
+      "value": 10.113
+    },
+    {
+      "label": "2026-05",
+      "value": 9.604
+    },
+    {
+      "label": "2026-06",
+      "value": 9.903
+    },
+    {
+      "label": "2026-07",
+      "value": 10.253
+    },
+    {
+      "label": "2026-08",
+      "value": 9.917
+    },
+    {
+      "label": "2026-09",
+      "value": 10.614
+    }
+  ]
+}

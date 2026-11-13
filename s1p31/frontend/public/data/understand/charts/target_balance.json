@@ -1,0 +1,17 @@
+{
+  "id": "target_balance",
+  "title": "Site-days by margin group",
+  "type": "bar",
+  "x_label": "Group",
+  "y_label": "Site-days",
+  "data": [
+    {
+      "label": "Normal",
+      "value": 749
+    },
+    {
+      "label": "Low margin",
+      "value": 251
+    }
+  ]
+}

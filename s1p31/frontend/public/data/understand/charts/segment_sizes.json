@@ -1,0 +1,21 @@
+{
+  "id": "segment_sizes",
+  "title": "Site-days by risk segment",
+  "type": "bar",
+  "x_label": "Segment",
+  "y_label": "Site-days",
+  "data": [
+    {
+      "label": "Low",
+      "value": 500
+    },
+    {
+      "label": "Medium",
+      "value": 392
+    },
+    {
+      "label": "High",
+      "value": 108
+    }
+  ]
+}
